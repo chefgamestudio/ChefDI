@@ -1,0 +1,9 @@
+{
+  "name": "gs.chef.di",
+  "displayName": "ChefDI",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Dependency Injection for Unity",
+  "keywords": ["DI", "Dependency Injection", "DI Container"]
+}
+

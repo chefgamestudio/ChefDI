@@ -1,0 +1,38 @@
+{
+    "name": "ChefDI.Tests",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "ChefDI",
+        "Unity.Collections",
+        "Unity.Entities",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "WindowsStandalone32"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "",
+            "define": "CHEFDI_UNITASK_INTEGRATION"
+        },
+        {
+            "name": "com.unity.entities",
+            "expression": "",
+            "define": "CHEFDI_ECS_INTEGRATION"
+        }
+    ],
+    "noEngineReferences": false
+}

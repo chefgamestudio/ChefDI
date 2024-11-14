@@ -1,0 +1,18 @@
+{
+    "name": "ChefDI.Editor",
+    "rootNamespace": "",
+    "references": [
+        "ChefDI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

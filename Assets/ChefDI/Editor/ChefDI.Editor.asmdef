@@ -2,8 +2,7 @@
     "name": "ChefDI.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:cb87067f2d334a7d860a6ddbd1340748",
-        "ChefDI"
+        "GUID:cb87067f2d334a7d860a6ddbd1340748"
     ],
     "includePlatforms": [
         "Editor"

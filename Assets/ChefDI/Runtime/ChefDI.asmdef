@@ -1,29 +1,29 @@
 {
-    "name": "ChefDI",
-    "rootNamespace": "gs.ChefDI",
-    "references": [
-        "Unity.Collections",
-        "Unity.Entities",
-        "UniTask"
-    ],
-    "includePlatforms": [],
-    "excludePlatforms": [],
-    "allowUnsafeCode": true,
-    "overrideReferences": true,
-    "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": [
-        {
-            "name": "com.unity.entities",
-            "expression": "",
-            "define": "CHEFDI_ECS_INTEGRATION"
-        },
-        {
-            "name": "com.cysharp.unitask",
-            "expression": "",
-            "define": "CHEFDI_UNITASK_INTEGRATION"
-        }
-    ],
-    "noEngineReferences": false
+  "name": "ChefDI",
+  "rootNamespace": "gs.ChefDI",
+  "references": [
+    "Unity.Collections",
+    "Unity.Entities",
+    "UniTask"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true,
+  "overrideReferences": true,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "com.unity.entities",
+      "expression": "",
+      "define": "CHEFDI_ECS_INTEGRATION"
+    },
+    {
+      "name": "com.cysharp.unitask",
+      "expression": "",
+      "define": "CHEFDI_UNITASK_INTEGRATION"
+    }
+  ],
+  "noEngineReferences": false
 }

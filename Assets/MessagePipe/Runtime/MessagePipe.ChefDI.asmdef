@@ -1,0 +1,23 @@
+{
+  "name": "MessagePipe.ChefDI",
+  "rootNamespace": "MessagePipe",
+  "references": [
+    "ChefDI",
+    "MessagePipe"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "com.cysharp.messagepipe.interprocess",
+      "expression": "",
+      "define": "MESSAGEPIPE_INTERPROCESS_SUPPORT"
+    }
+  ],
+  "noEngineReferences": true
+}

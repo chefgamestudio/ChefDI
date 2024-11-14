@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "com.cysharp.messagepipe": "1.8.1",
+    "com.cysharp.unitask": "2.5.10",
     "com.unity.ai.navigation": "1.1.5",
     "com.unity.ide.rider": "3.0.34",
     "com.unity.ide.visualstudio": "2.0.22",
@@ -17,5 +19,14 @@
     "com.unity.modules.ui": "1.0.0",
     "com.unity.modules.uielements": "1.0.0",
     "com.unity.modules.unitywebrequest": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.cysharp"
+      ]
+    }
+  ]
 }

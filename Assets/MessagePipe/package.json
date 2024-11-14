@@ -1,0 +1,11 @@
+{
+  "name": "gs.chef.messagepipe.chefdi",
+  "displayName": "MessagePipe.ChefDI",
+  "version": "1.0.2",
+  "unity": "2022.3",
+  "description": "MessagePipe Runtime support for ChefDI.",
+  "keywords": [ "pubsub", "event", "Scripting", "DI" ],
+  "license": "MIT",
+  "category": "Scripting",
+  "dependencies": {}
+}

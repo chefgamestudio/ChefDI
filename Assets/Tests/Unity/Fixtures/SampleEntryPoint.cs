@@ -158,11 +158,11 @@ namespace gs.ChefDI.Tests.Unity
         }
     }
 
-#if UNITY_2021_3_OR_NEWER
+/*#if UNITY_2021_3_OR_NEWER
     public class AsyncStartableThrowable : IAsyncStartable
     {
         public Awaitable StartAsync(CancellationToken cancellation)
             => throw new System.NotImplementedException();
     }
-#endif
+#endif*/
 }

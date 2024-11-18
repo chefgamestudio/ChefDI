@@ -1,0 +1,16 @@
+{
+  "name": "gs.chef.synthesis",
+  "diplayName": "Chef Synthesis",
+  "version": "0.0.2",
+  "description": "Synthesis of CHEF",
+  "unity": "2022.3",
+  "keywords": [
+    "CHEF",
+    "Synthesis",
+    "ecs",
+    "dots",
+    "unity",
+    "jobs"
+  ],
+  "author": "CHEF"
+}

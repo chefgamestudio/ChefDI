@@ -1,0 +1,30 @@
+{
+    "name": "CHEF.Synthesis",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Burst",
+        "Unity.Entities",
+        "Unity.Physics",
+        "Unity.Transforms",
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "Unity.Scenes",
+        "Unity.Entities.Hybrid",
+        "MessagePipe",
+        "UniTask",
+        "ChefDI",
+        "MessagePipe.ChefDI",
+        "EntitiesEvents"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gs.chef.entities-events",
+  "version": "1.0.4",
+  "displayName": "Chef Entities Events",
+  "description": "Provides inter-system messaging functionality to Unity ECS",
+  "unity": "6000.0"
+}

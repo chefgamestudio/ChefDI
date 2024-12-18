@@ -1,5 +1,5 @@
 using System.Runtime.CompilerServices;
-using EntitiesEvents;
+using Chef.EntitiesEvents;
 using gs.ChefDI;
 using Unity.Entities;
 

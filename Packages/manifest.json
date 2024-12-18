@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.annulusgames.entities-events": "https://github.com/AnnulusGames/EntitiesEvents.git?path=Assets/EntitiesEvents",
     "jillejr.newtonsoft.json-for-unity": "13.0.102",
     "com.cysharp.messagepipe": "1.8.1",
     "com.cysharp.unitask": "2.5.10",

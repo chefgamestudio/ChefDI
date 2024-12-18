@@ -821,7 +821,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    iPhone: 
+    iPhone: UNITY_PHYSICS_CUSTOM
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:

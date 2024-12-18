@@ -1,4 +1,4 @@
-using EntitiesEvents;
+using Chef.EntitiesEvents;
 using gs.ChefDI;
 using Synthesis.SystemGroups;
 using MessagePipe;

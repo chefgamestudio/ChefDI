@@ -1,7 +1,7 @@
 {
   "name": "gs.chef.synthesis",
   "diplayName": "Chef Synthesis",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Synthesis of CHEF",
   "unity": "2022.3",
   "keywords": [

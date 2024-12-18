@@ -3,9 +3,9 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using Unity.Collections;
 using Unity.Collections.LowLevel.Unsafe;
-using Chef.EntitiesEvents.Internal;
+using EntitiesEvents.Internal;
 
-namespace Chef.EntitiesEvents.LowLevel.Unsafe
+namespace EntitiesEvents.LowLevel.Unsafe
 {
     public unsafe struct UnsafeEvents<T> : IDisposable
         where T : unmanaged

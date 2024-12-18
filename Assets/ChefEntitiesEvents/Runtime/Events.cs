@@ -1,12 +1,12 @@
 using System;
 using System.Runtime.CompilerServices;
-using Chef.EntitiesEvents.Internal;
 using Unity.Collections;
 using Unity.Collections.LowLevel.Unsafe;
-using Chef.EntitiesEvents.LowLevel.Unsafe;
+using EntitiesEvents.LowLevel.Unsafe;
+using EntitiesEvents.Internal;
 using Unity.Burst;
 
-namespace Chef.EntitiesEvents
+namespace EntitiesEvents
 {
     [NativeContainer]
     public struct Events<T> : IDisposable

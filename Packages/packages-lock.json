@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.annulusgames.entities-events": {
+      "version": "https://github.com/AnnulusGames/EntitiesEvents.git?path=Assets/EntitiesEvents",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "646b25b92679bde79fe9b7cc030d957b6804d80e"
+    },
     "com.cysharp.messagepipe": {
       "version": "1.8.1",
       "depth": 0,

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Unity.Collections;
 using Unity.Collections.LowLevel.Unsafe;
 
-namespace Chef.EntitiesEvents.Internal
+namespace EntitiesEvents.Internal
 {
     public readonly struct EventInstance<T> where T : unmanaged
     {

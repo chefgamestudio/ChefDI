@@ -1,8 +1,8 @@
 using System.Runtime.CompilerServices;
-using Chef.EntitiesEvents.Internal;
 using Unity.Collections.LowLevel.Unsafe;
+using EntitiesEvents.Internal;
 
-namespace Chef.EntitiesEvents
+namespace EntitiesEvents
 {
     [NativeContainer]
     [NativeContainerIsReadOnly]
@@ -42,7 +42,7 @@ namespace Chef.EntitiesEvents
     }
 }
 
-namespace Chef.EntitiesEvents.LowLevel.Unsafe
+namespace EntitiesEvents.LowLevel.Unsafe
 {
     public unsafe struct UnsafeEventReader<T>
         where T : unmanaged

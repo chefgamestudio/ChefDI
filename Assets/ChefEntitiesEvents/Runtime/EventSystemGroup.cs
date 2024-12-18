@@ -1,6 +1,6 @@
 using Unity.Entities;
 
-namespace Chef.EntitiesEvents
+namespace EntitiesEvents
 {
     [UpdateInGroup(typeof(SimulationSystemGroup), OrderLast = true)]
     [CreateBefore(typeof(SimulationSystemGroup))]

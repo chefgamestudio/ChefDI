@@ -1,7 +1,7 @@
 using Unity.Burst;
 using Unity.Entities;
 
-namespace Chef.EntitiesEvents.Internal
+namespace EntitiesEvents.Internal
 {
     [BurstCompile]
     [UpdateInGroup(typeof(EventSystemGroup))]

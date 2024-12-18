@@ -1,8 +1,8 @@
-using Chef.EntitiesEvents.Internal;
+using EntitiesEvents.Internal;
 using Unity.Collections;
 using Unity.Entities;
 
-namespace Chef.EntitiesEvents
+namespace EntitiesEvents
 {
     public static class EventHelper
     {

@@ -1,6 +1,6 @@
 using Unity.Entities;
 
-namespace Chef.EntitiesEvents.Internal
+namespace EntitiesEvents.Internal
 {
     public unsafe struct EventSingleton<T> : IComponentData
         where T : unmanaged
